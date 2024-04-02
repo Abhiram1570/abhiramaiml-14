@@ -5,6 +5,11 @@
 
 [Lab-2](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/AIML%20Lab2.ipynb)
 
+[Lab-4](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/LAB4PART1.ipynb)
+
+
+
+
 
 
 

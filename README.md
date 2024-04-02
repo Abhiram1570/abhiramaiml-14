@@ -9,6 +9,9 @@
 
 [Lab-5](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/AIML%20LAB5.ipynb)
 
+[Lab-6](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/LAB6_AIML.ipynb)
+
+
 
 
 

@@ -11,6 +11,9 @@
 
 [Lab-6](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/LAB6_AIML.ipynb)
 
+[Lab-7](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/AIMLLAB7%20(1).ipynb)
+
+
 
 
 

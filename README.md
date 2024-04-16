@@ -20,6 +20,9 @@
 
 [Lab-9](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/AIML_LAB9.ipynb)
 
+[Lab-10](https://github.com/Abhiram1570/abhiramaiml-14/blob/main/LAB_10.ipynb)
+
+
 
 
 
